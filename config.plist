@@ -209,7 +209,7 @@
 		<key>#XMPDetection</key>
 		<string>-1</string>
 		<key>Arguments</key>
-		<string>-v</string>
+		<string>-v -disablegfxfirmware</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
@@ -619,7 +619,7 @@
 					<array>
 						<dict>
 							<key>AddArguments</key>
-							<string>-v</string>
+							<string>-v -disablegfxfirmware</string>
 							<key>Title</key>
 							<string>Boot OS X 10.8.5 (12F36) Mountain Lion in Verbose Mode</string>
 						</dict>
